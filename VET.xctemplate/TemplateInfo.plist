@@ -54,10 +54,11 @@
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
-			<string>Create VET</string>
+			<string>Create files</string>
 			<key>Values</key>
 			<array>
-				<string>Create VET</string>
+				<string>Create files</string>
+				<string>Create files with folders</string>
 			</array>
 		</dict>
 	</array>

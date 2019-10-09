@@ -13,10 +13,10 @@ Router have function createModule, if you want pass data in module, use this fun
 How to add it in your Xcode?
 
 - Download teamplate from git;
-- Copy VIPER Module X.xctemplate folder;
+- Copy VET.xctemplate folder;
 - Open Finder and copy this a way
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application
- - Paste here VIPER Module X.xctemplate
+ - Paste here VET.xctemplate.
  
  What next?
  

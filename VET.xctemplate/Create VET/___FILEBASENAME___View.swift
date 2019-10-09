@@ -16,7 +16,7 @@ class ___VARIABLE_productName:identifier___View: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        presenter = ___VARIABLE_productName:identifier___Presenter(view: self)
+        
         
     }
     

@@ -27,7 +27,7 @@ protocol ___VARIABLE_productName:identifier___PresenterProtocol {
 }
 
 //MARK: Router
-/
+
 protocol ___VARIABLE_productName:identifier___RouterProtocol {
     
 }

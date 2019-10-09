@@ -15,8 +15,7 @@ class ___VARIABLE_productName:identifier___Presenter {
     private var interactor: ___VARIABLE_productName:identifier___InteractorProtocol
     private var router: ___VARIABLE_productName:identifier___RouterProtocol
     
-    init(view: ___VARIABLE_productName:identifier___ViewProtocol) {
-        self.view = view
+    init() {
         self.interactor = ___VARIABLE_productName:identifier___Interactor()
         self.router = ___VARIABLE_productName:identifier___Router()
     }

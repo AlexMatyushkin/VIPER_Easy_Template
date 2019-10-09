@@ -11,7 +11,7 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>SwiftViperModule</string>
+	<string>VIPER_Easy_Template</string>
 	<key>Description</key>
 	<string>Basic Swift VIPER module template. Creates View, Interactor, Presenter, Router &amp; Entity with protocols.</string>
 	<key>Kind</key>
@@ -54,10 +54,10 @@
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
-			<string>With Generic Functions Fullname</string>
+			<string>Create VET</string>
 			<key>Values</key>
 			<array>
-				<string>With Generic Functions Fullname</string>
+				<string>Create VET</string>
 			</array>
 		</dict>
 	</array>

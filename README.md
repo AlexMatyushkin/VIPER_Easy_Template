@@ -20,6 +20,8 @@ How to add it in your Xcode?
  
  What next?
  
-Now when you want create new File in Xcode, you see new Template VIPER Module X. Select it and enter your Module name.
+Now when you want create new File in Xcode, you see new Template VET.
+![Optional Text](https://github.com/AlexMatyushkin/VIPER_Easy_Template/blob/developer/VETScreen.png)
+Select it and enter your Module name.
 Done, your module was created. 
 Enjoy.:)
